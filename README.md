@@ -1,2 +1,2 @@
 # Ola-Mundo
- Primeiro repositório dedicado aos projetos desenvolvidos em cursos e estudos.
+ Primeiro repositório criado no curso de Git e GitHub.
